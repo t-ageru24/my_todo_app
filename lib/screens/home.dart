@@ -3,7 +3,7 @@ import 'package:my_todo_app/constants/colors.dart';
 import 'package:my_todo_app/model/todo.dart';
 import 'package:my_todo_app/widgets/__item.dart';
 import '../model/todo.dart';
-import '../';
+
 
 class Home extends StatefulWidget{
   Home({Key? key}) : super(key: key);
